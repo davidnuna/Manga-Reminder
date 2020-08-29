@@ -1,0 +1,3 @@
+Bot facebook username
+Bot facebook password
+User to receive updates name ( ex: John Doe )

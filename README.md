@@ -26,3 +26,7 @@ Install fbchat
 ```
 pip install fbchat
 ```
+Run the application in the project folder
+```
+python main.py
+```
